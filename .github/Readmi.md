@@ -25,7 +25,7 @@
 
 #### ESTUDIOS OBTENIDO 
 
-| ---- | ---- |
 | NOMBRE | GRADO |
+| ---- | ---- |
 | JUAN BOSCO | PRIMARIA |
 | INSTITUTO TECNICO ERGA MORIN | BACHILLERATO |
