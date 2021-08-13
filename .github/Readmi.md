@@ -1,6 +1,6 @@
 # HOJA DE VIDAD
 
-<img  src="C:\Users\joan\desktop\ADSI2340875\hoja-de-vida\hoja-de-vida-aprendiz-Jhonmario17\Nueva carpeta\img.numero1.jpg" alt="text"width="100x100"/>
+<img  src="https://github.com/CarsOk/hoja-de-vida-aprendiz-Jhonmario17.git" alt="text" width="100x100"/>
 
 ## DATOS PERSONALES 
 
@@ -29,8 +29,10 @@
 ### HABILIDADES
 
 APRENDO RAPIDO.
+
 SE ESCUCHAR CON FACILIDAD.
-MEJORO CADA DIA.
+
+FACILIDAD DE ENTENDER Y COMPRENDER LO RELACIONADO A LA COMPUTACION 
 
 ### ESTUDIOS OBTENIDO 
 
