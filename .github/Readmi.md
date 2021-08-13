@@ -1,6 +1,6 @@
 # HOJA DE VIDAD
 
-<img  src="https://github.com/settings/profile" alt="text"width="100"/>
+<img  src="https://avatars.githubusercontent.com/u/88340238?v=4" alt="text"width="100"/>
 
 ## DATOS PERSONALES 
 
