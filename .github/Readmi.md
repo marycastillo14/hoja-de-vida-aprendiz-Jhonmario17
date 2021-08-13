@@ -1,6 +1,6 @@
 # HOJA DE VIDAD
 
-<img  src="C:\Users\Joan\Downloads" alt="text"width=""/>
+<img  src="https://github.com/settings/profile" alt="text"width="100"/>
 
 ## DATOS PERSONALES 
 
@@ -26,12 +26,12 @@
 | MARIO NELL | CASTRO MEDINA | 3024618960 | 
 | LILIANA DEL ROSARIO |  MONTERROZA BUELBA | 3126329708 |
 
-##### HABILIDADES
-APRENDO RAPIDO
-SE ESCUCHAR CON FACILIDAD
-MEJORO CADA DIA 
+### HABILIDADES
+|APRENDO RAPIDO
+|SE ESCUCHAR CON FACILIDAD
+|MEJORO CADA DIA 
 
-###### ESTUDIOS OBTENIDO 
+### ESTUDIOS OBTENIDO 
 
 | NOMBRE | GRADO | FINALIZACION DE CURSO |
 | ---- | ---- | ---- |
