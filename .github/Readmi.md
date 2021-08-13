@@ -1,6 +1,6 @@
 # HOJA DE VIDAD
 
-<img  src="https://github.com/CarsOk/hoja-de-vida-aprendiz-Jhonmario17.git" alt="text" width="100x100"/>
+<img src="https://github.com/CarsOk/hoja-de-vida-aprendiz-Jhonmario17.git" alt="text" width="100x100"/>
 
 ## DATOS PERSONALES 
 
