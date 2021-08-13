@@ -1,6 +1,6 @@
 # HOJA DE VIDAD
 
-<img  src="https://avatars.githubusercontent.com/u/88340238?s=400&u=864ff7e1fda8e674e2fc4c0bd4e43d094aac2690&v=4" alt="text"width="100"/>
+<img  src="C:\Users\joan\desktop\ADSI2340875\hoja-de-vida\hoja-de-vida-aprendiz-Jhonmario17\Nueva carpeta\img.numero1.jpg" alt="text"width="100x100"/>
 
 ## DATOS PERSONALES 
 
@@ -27,10 +27,10 @@
 | LILIANA DEL ROSARIO |  MONTERROZA BUELBA | 3126329708 |
 
 ### HABILIDADES
-| ---- |
-| APRENDO RAPIDO |
-| SE ESCUCHAR CON FACILIDAD |
-| MEJORO CADA DIA |
+
+APRENDO RAPIDO.
+SE ESCUCHAR CON FACILIDAD.
+MEJORO CADA DIA.
 
 ### ESTUDIOS OBTENIDO 
 
