@@ -2,6 +2,8 @@
 
 <img src="https://avatars.githubusercontent.com/u/88340238?v=4" width="100">
 
+![imanen](img/imagen.jpeg)
+
 ## DATOS PERSONALES
 
 | AREA  | TECNOLOGO EN ANALISISY DESARROLLO DE SISTEMA DE INFORMACION  |
