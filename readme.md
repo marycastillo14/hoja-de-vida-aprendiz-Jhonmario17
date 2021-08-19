@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/88340238?v=4" width="100">
 
-![imanen](img/imagen.jpeg)
+<img src="img/imagen.jpeg" width="100">
 
 ## DATOS PERSONALES
 
